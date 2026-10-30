@@ -48,7 +48,7 @@ Provides a high-level view of business performance.
 ### 2. Product by Sub-category
 
 Analyzes profit performance across product sub-categories.
-![Profitability Analysis](Screenshots/02_profit_analysis.png)
+![Profitability Analysis](Screenshots/02_product_subcategory.png)
 **Key visual:**
 - Profit by Sub-Category, with sales included in the analysis where configured.
 
