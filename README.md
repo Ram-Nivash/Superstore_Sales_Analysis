@@ -48,7 +48,7 @@ Provides a high-level view of business performance.
 ### 2. Product by Sub-category
 
 Analyzes profit performance across product sub-categories.
-
+![Profitability Analysis](Screenshots/02_profit_analysis.png)
 **Key visual:**
 - Profit by Sub-Category, with sales included in the analysis where configured.
 
@@ -57,7 +57,7 @@ Analyzes profit performance across product sub-categories.
 ### 3. Product Analysis
 
 Focuses on individual product performance.
-
+![Product Analysis](Screenshots/03_product_analysis.png)
 **Key visuals:**
 - Top 10 Products by Sales
 - Bottom 10 Products by Profit
@@ -70,7 +70,7 @@ Focuses on individual product performance.
 ### 4. Customer Analysis
 
 Examines customer-level sales and profitability.
-
+![Customer Analysis](Screenshots/04_customer_analysis.png)
 **Key visuals:**
 - Top 10 Customers by Sales
 - Bottom 10 Customers by Profit
