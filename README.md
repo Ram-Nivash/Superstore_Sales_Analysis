@@ -33,7 +33,7 @@ The Power BI report contains four pages.
 ### 1. Sales Overview
 
 Provides a high-level view of business performance.
-
+![Sales Overview](Screenshots/01_sales_overview.png)
 **Key visuals:**
 - Total Sales
 - Total Profit
